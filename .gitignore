@@ -1,0 +1,4 @@
+dist/gcd
+dist/*
+build/*
+**/*.o
